@@ -1,0 +1,97 @@
+#menuModal {
+    width: auto;
+    height: 90%;
+    margin-top:50px;
+    overflow: hidden;
+  }
+
+  #ugModal {
+    width: auto;
+    height: 60%;
+    overflow: hidden;
+  }
+
+  #routeModal {
+    width: auto;
+    height: 60%;
+    overflow: hidden;
+  }
+  #iconModal {
+    width: auto;
+    height: 60%;
+    overflow: hidden;
+  }
+  #garbagebinModal {
+    width: auto;
+    height: 80%;
+    margin-top:15px;
+    overflow: hidden;
+  }
+  #contractorvehicleModal {
+    width: auto;
+    height: 70%;
+    overflow: hidden;
+  }
+  #contractordetailModal {
+    width: auto;
+    height: 90%;
+    margin-top:15px;
+    overflow: hidden;
+  }
+  #collegeModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #instiModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #chancelModal {
+    width: auto;
+    height: 65%;
+    overflow: hidden;
+  }
+  #zoneModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #buildingModal {
+    width: auto;
+    height: 35%;
+    overflow: hidden;
+  }
+  #datagroupModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #datasetModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #wdhModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #binModal {
+    width: auto;
+    height: 65%;
+    margin-top:60px;
+    overflow: hidden;
+  }
+  #obModal {
+    width: auto;
+    height: 50%;
+    overflow: hidden;
+  }
+  #binLocationModal {
+    width: auto;
+    height: 95%;
+    margin-top:20px;
+    overflow: hidden;
+  }
