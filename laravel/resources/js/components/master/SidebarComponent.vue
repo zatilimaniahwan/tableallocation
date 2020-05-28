@@ -31,7 +31,7 @@
         >
           <a class="nav-item-hold no-pjax" :href="baseUrl+'/checkavailables'">
             <i class="nav-icon  i-File-Clipboard"></i>
-            <span class="nav-text">Table Availability</span>
+            <span class="nav-text">Table Available</span>
           </a>
           <div class="triangle"></div>
         </li>
